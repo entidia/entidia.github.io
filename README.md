@@ -1,0 +1,2 @@
+# entidia.github.io
+infopage
