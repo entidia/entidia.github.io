@@ -1,5 +1,3 @@
-## Welcome to our GitHub Page
+## entidia GitHub Page
 
-Here you can find some informations about our GitHub repositories and projects.
-
-{% link bitbar-plugin.md %}
+just some informations about our GitHub repositories and projects.
