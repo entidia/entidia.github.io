@@ -1,7 +1,5 @@
 /** Proxima Nova **/
 
-
-
 @font-face {
     font-family: 'Proxima Nova Black';
     src: url('Proxima Nova Alt Black.eot');
@@ -112,6 +110,7 @@
 .size60 {font-size:60px;}
 .size72 {font-size:72px;}
 .size90 {font-size:90px;}
+
 .nova-regular   {   font-family: 'Proxima Nova';}
 .nova-thin      {   font-family: 'Proxima Nova Thin';}
 .nova-semibold  {   font-family: 'Proxima Nova Semibold';}
@@ -121,27 +120,13 @@
 
 
 body, p {
-    color: #424449;
+    color: #41464B;
 } 
-.top-nav {
-    color: #fff;
-    background-color: #424449;
-}
 
 h1, h2, h3, h4, h5 {
-    color: #afc752;
+    color: #41464B;
     }
 h1 small, h2 small, h3 small, h4 small, h5 small {
     color: #b9b9b9;
     font-size: 50%;
-}
-
-.dropdown-content li > a, 
-.dropdown-content li > span {
-    color: #afc752;
-    }
-.dropdown-content li > a:hover, 
-.dropdown-content li > span:hover {
-    color:#ffffff;
-    background-color: #b9b9b9;
 }
