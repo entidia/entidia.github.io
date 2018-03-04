@@ -117,16 +117,3 @@
 .nova-cond-semibold  {   font-family: 'Proxima Nova Condensed Semibold';}
 .nova-bold  {   font-family: 'Proxima Nova Bold';}
 .nova-black  {   font-family: 'Proxima Nova Black';}
-
-
-body, p {
-    color: #41464B;
-} 
-
-h1, h2, h3, h4, h5 {
-    color: #41464B;
-    }
-h1 small, h2 small, h3 small, h4 small, h5 small {
-    color: #b9b9b9;
-    font-size: 50%;
-}
